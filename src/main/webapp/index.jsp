@@ -71,7 +71,7 @@ a {
 
 <form action="/action_page.php">
   <div class="container">
-    <h1>Register</h1>
+    <h1>Register For Akhila Appointment </h1> 
     <p>Please fill in this form to create an account.</p>
     <hr>
     
@@ -89,7 +89,7 @@ a {
     <hr>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
 
-    <button type="submit" class="registerbtn">Register Through Gnani Techy</button>
+    <button type="submit" class="registerbtn">Register Through Gnani Tech</button>
   </div>
   
   <div class="container signin">
