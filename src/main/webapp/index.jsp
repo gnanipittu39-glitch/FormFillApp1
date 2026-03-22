@@ -72,10 +72,9 @@ a {
 
 <form action="/action_page.php">
   <div class="container">
-    <h1>!!Welcome to My Dearfriends!!! Register For Gnani Appointment</h1>
+    <h1> Register For Gnani Appointment</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
-
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
 
